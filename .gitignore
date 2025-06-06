@@ -1,2 +1,3 @@
 server/sheetservice/creds.json
-.env
+server/sheetservice/.env
+server/sheetservice/.env
