@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+gspread
+oauth2client
+google-api-python-client
+google-auth-httplib2 
+google-auth-oauthlib
+dotenv
+langchain_groq
+fastapi-mail
+motor
+pymongo
+pydantic
+typing
