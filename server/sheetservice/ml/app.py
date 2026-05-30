@@ -6,7 +6,6 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Sample input dictionary
 input_dict = {
     'Timestamp': '24/04/2025 16:49:49',
     'Mathematics': '5',

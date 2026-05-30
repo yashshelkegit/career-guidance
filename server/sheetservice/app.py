@@ -95,7 +95,7 @@ conf = ConnectionConfig(
     USE_CREDENTIALS=True
 )
 
-url =  "https://baseline-barrier-layout-quiet.trycloudflare.com"
+url =  "https://associated-mary-highs-phoenix.trycloudflare.com"
 
 llm = ChatGroq(
     temperature=0,
@@ -259,4 +259,3 @@ async def store_in_db(email, response_content, score_data):
     except Exception as e:
         print(f"Error storing in DB: {e}")
         return None
-
